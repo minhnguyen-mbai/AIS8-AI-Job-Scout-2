@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-10-21T15:19:20+08:00",
+    "updated_at": "2026-10-22T09:10:03+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-0f3969670395b72fa58c44e20f0e174c",
+      "title": "Temp Executive / Senior Executive for AI Singapore (AI Talent & Ecosystem)",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/events/temp-executive-senior-executive-ai-singapore-national-university-singapore-0f3969670395b72fa58c44e20f0e174c",
+      "posted": "2026-10-22",
+      "salary": "S$2,500 to S$5,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-eb1fe8bf8dc0d95562fd847cb36e437b",
+      "title": "Adjunct Trainer – Artificial Intelligence (AI)",
+      "company": "EXPERT CIRCLE",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/education-training/adjunct-trainer-%E2%80%93-artificial-intelligence-expert-circle-eb1fe8bf8dc0d95562fd847cb36e437b",
+      "posted": "2026-10-21",
+      "salary": "S$35 to S$45 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Artificial Intelligence\" and \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-f82e27201dbefb69c7c56cdcf5472f09",
+      "title": "Senior Solution Area Specialist, Cloud & AI",
+      "company": "MICROSOFT OPERATIONS PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-solution-area-specialist-cloud-ai-microsoft-operations-f82e27201dbefb69c7c56cdcf5472f09",
+      "posted": "2026-10-21",
+      "salary": "S$14,200 to S$22,500 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-3a9047e632eedd605ae67ec40d8f874d",
+      "title": "AI Investment Strategist – Research & Automation",
+      "company": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/ai-investment-strategist-%E2%80%93-research-automation-investment-company-peoples-republic-china-3a9047e632eedd605ae67ec40d8f874d",
+      "posted": "2026-10-21",
+      "salary": "S$7,500 to S$15,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-ba3fb07c760d31c0b16c67d928220612",
+      "title": "Research Associate / Research Fellow (AI in Education)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/sciences/research-associate-research-fellow-nanyang-technological-university-ba3fb07c760d31c0b16c67d928220612",
+      "posted": "2026-10-21",
+      "salary": "S$4,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-9ebba3c8a303a188f7c34a0d9af75368",
+      "title": "Data Scientist (Fresh Graduate)",
+      "company": "XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/data-scientist-xiaomi-technologies-singapore-9ebba3c8a303a188f7c34a0d9af75368",
+      "posted": "2026-10-21",
+      "salary": "S$4,000 to S$6,600 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
+    {
+      "id": "mcf-d0649178d780a8b60929120a35030cd0",
+      "title": "AI Engineer (Gemini Enterprise Agent )",
+      "company": "ELLIOTT MOSS CONSULTING PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-elliott-moss-consulting-d0649178d780a8b60929120a35030cd0",
+      "posted": "2026-10-21",
+      "salary": "S$11,500 to S$13,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-22T09:10:03+08:00",
+      "last_seen": "2026-10-22T09:10:03+08:00"
+    },
     {
       "id": "mcf-6ed0ec85ec8c631ed33f98746af15787",
       "title": "AI Engineering",
@@ -26,7 +131,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-49d56fbffa3ad11a0162abd3071578aa",
@@ -41,7 +146,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-be854358cf41de4ad96f1cd691c5426b",
@@ -56,7 +161,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-20012cc539ed48b6ebcb379c20a3b0bc",
@@ -71,7 +176,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"LLM\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-1c748daec360feb9f0007d8efbbd7b40",
@@ -86,7 +191,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-9f32784a3ef9080ee0b4d3dbb93d1973",
@@ -101,7 +206,7 @@
       "level": "Mid",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-6d4ba63b072c4271824570616040cb0c",
@@ -116,7 +221,7 @@
       "level": "Entry",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-9b5cb6b4e0d4a42e58f9bccf515a59f0",
@@ -131,7 +236,7 @@
       "level": "Entry",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-63426649ee7f8f9f4e579b383eced832",
@@ -146,7 +251,7 @@
       "level": "Not stated",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-5b609c7a16cb36934e5e98d77c535608",
@@ -161,7 +266,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-7a3710849387075a6eec334adbf407c1",
@@ -176,7 +281,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-79983704faa568ee0d2105b1831d83af",
@@ -191,7 +296,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "mcf-5a59dc0e6853e0723c94a3c715149953",
@@ -626,7 +731,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
@@ -641,7 +746,7 @@
       "level": "Mid",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-21T15:15:43+08:00",
-      "last_seen": "2026-10-21T15:19:20+08:00"
+      "last_seen": "2026-10-22T09:10:03+08:00"
     }
   ]
 }
